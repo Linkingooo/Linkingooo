@@ -34,9 +34,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Linkingooo&show_icons=true&bg_color=0d1117&title_color=ff69b4&text_color=ffb6c1&icon_color=ff1493&border_color=ff69b4&ring_color=ff1493" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Linkingooo&show_icons=true&bg_color=0d1117&title_color=ff69b4&text_color=ffb6c1&icon_color=ff1493&border_color=ff69b4&ring_color=ff1493" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linkingooo&layout=compact&bg_color=0d1117&title_color=ff69b4&text_color=ffb6c1&border_color=ff69b4" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Linkingooo&layout=compact&bg_color=0d1117&title_color=ff69b4&text_color=ffb6c1&border_color=ff69b4" height="170"/>
 
 <br><br>
 
