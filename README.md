@@ -20,14 +20,6 @@
 
 ## ˗ˏˋ ♡ ˎˊ˗ About Me
 
-```text
-🌸 A passionate learner exploring the world of code
-🎮 Love pixel art, cute aesthetics & creative coding
-🌙 Night owl who codes under starlight
-✨ Currently learning & growing every day
-💝 Believer in making tech cute & accessible
-```
-
 <br>
 
 <div align="center">
@@ -48,7 +40,7 @@
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Linkingooo&background=0d1117&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&sideLabels=ffb6c1&dates=ffb6c1&border=ff69b4&currStreakNum=ff69b4&sideNums=ff69b4&stroke=ff69b4" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=Linkingooo&background=0d1117&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&sideLabels=ffb6c1&dates=ffb6c1&border=ff69b4&currStreakNum=ff69b4&sideNums=ff69b4&stroke=ff69b4" width="60%"/>
 
 </div>
 
